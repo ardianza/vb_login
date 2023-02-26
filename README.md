@@ -1,2 +1,5 @@
 # vb_login
-login visual basic dengan database ms.access
+login sederhana aplikasi visual basic dengan database ms.access
+
+simpan database di C:\data\
+
